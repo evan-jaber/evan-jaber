@@ -5,5 +5,5 @@
 - 🔭 I’m currently working on my skills in coding
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with JavaScript and web dev frameworks
-- 📫 How to reach me: FB link attached with my profile
+- 📫 How to reach me: evan.masrur.jaber@g.bracu.ac.bd
 - 😄 Pronouns: He/ Him
